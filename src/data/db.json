@@ -1,0 +1,29 @@
+{
+  "designation": [
+    {
+      "id": "1",
+      "code": "JSE",
+      "title": "junior Software Engineer"
+    },
+    {
+      "id": "2",
+      "code": "PM",
+      "title": "Project manager"
+    },
+    {
+      "id": "3",
+      "code": "ASE",
+      "title": "Associate Software  engineer"
+    },
+    {
+      "id": "4",
+      "code": "ASE",
+      "title": "Associate Software Engineer"
+    },
+    {
+      "id": "5",
+      "code": "ASET",
+      "title": "Associate Software Engineer- testing"
+    }
+  ]
+}
